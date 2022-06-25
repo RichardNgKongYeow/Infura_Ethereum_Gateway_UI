@@ -1,4 +1,4 @@
-# Blockchain (B1)
+# Infura Ethereum Gateway and Blockchain Explorer
 
 ### Tech Stack
 1. HTML
